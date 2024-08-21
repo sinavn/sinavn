@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im Sina VN 👋
 
 <!--
 **sinavn/sinavn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning swift
+🔭 I’m currently working on [Coin Scope](https://github.com/sinavn/CoinSight)
+💬 Ask me about Swift
+📫 reach me at : vosogh858sina@gmail.com
